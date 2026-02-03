@@ -18,4 +18,4 @@ Libraries: Scikit-learn, Pandas, NumPy, XGBoost
 
 Visualization: Power BI (DAX)
 
-Tools: Git, VS Code
+Tools: Git, JUPITER
