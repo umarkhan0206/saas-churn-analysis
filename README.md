@@ -1,4 +1,4 @@
-SaaS Customer Churn & Risk Analysis /n
+SaaS Customer Churn & Risk Analysis \n
 Project Overview
 Developed an end-to-end Business Intelligence and Predictive Analytics solution to identify at-risk customers for a SaaS platform. This project bridges the gap between raw data science and actionable business insights by integrating Python-based machine learning with interactive Power BI dashboards.
 
